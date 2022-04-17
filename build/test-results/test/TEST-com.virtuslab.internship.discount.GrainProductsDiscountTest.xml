@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.virtuslab.internship.discount.GrainProductsDiscountTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-04-17T13:39:56" hostname="DESKTOP-3KKM53H" time="0.11">
+  <properties/>
+  <testcase name="shouldApplyBothDiscounts()" classname="com.virtuslab.internship.discount.GrainProductsDiscountTest" time="0.108"/>
+  <testcase name="shouldApplyOnlyGrainDiscount()" classname="com.virtuslab.internship.discount.GrainProductsDiscountTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
